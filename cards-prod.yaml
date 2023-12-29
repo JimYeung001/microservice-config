@@ -1,5 +1,5 @@
 accounts:
-   message: "Welcome to Eazy Cards Prod API"
+   message: "Welcome to Eazy Cards Production API"
    contactDetails:
       name: "Joy Yeung"
       email: "joy@gmail.com"
