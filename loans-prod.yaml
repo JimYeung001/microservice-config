@@ -1,5 +1,5 @@
 accounts:
-   message: "Welcome to Eazy Loans Production API"
+   message: "Welcome to Eazy Loans Prod API"
    contactDetails:
       name: "Joy Yeung"
       email: "joy@gmail.com"
